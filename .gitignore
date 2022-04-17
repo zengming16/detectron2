@@ -1,0 +1,7 @@
+gcc-5.4.0/
+ninja/
+OWOD/
+MaskFormer/datasets/ADEChallengeData2016/
+MaskFormer/datasets/cityscapes/
+MaskFormer/datasets/coco/
+gcc-5.4.0.tar.bz2
